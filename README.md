@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
- [Demo Project](https://amirmohammadianaftah.github.io/TicTacToe/)
+ [Demo Project](https://amirmohammadianaftah.github.io/Tic-Tac-Toe/)
 
 
  ![TicTacToe](https://github.com/user-attachments/assets/9238940c-8490-4415-9d9a-1f489b984b83)
